@@ -3,7 +3,7 @@ import NavbarMain from './components/Navbar/NavbarMain'
 import HeroMain from './components/heroSection/HeroMain'
 import HeroGradient from "./components/heroSection/HeroGradient"
 import SubHeroMain from './components/Subhero/SubHeroMain'
-import AboutMeMain from './components/about/AboutMemain'
+import AboutMeMain from './components/about/AboutMeMain'
 import ExperienceMain from './components/experience/ExperienceMain'
 import SkillsMain from './components/skills/SkillsMain'
 import ProjectsMain from './components/projectsection/ProjectsMain'
