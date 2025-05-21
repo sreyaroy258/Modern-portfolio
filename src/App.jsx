@@ -1,5 +1,5 @@
 import React from 'react'
-import NavbarMain from './components/Navbar/navbarMain'
+import NavbarMain from './components/Navbar/NavbarMain'
 import HeroMain from './components/heroSection/HeroMain'
 import HeroGradient from "./components/heroSection/HeroGradient"
 import SubHeroMain from './components/Subhero/SubHeromain'
