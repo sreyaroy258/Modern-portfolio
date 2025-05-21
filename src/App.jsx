@@ -2,7 +2,7 @@ import React from 'react'
 import NavbarMain from './components/Navbar/NavbarMain'
 import HeroMain from './components/heroSection/HeroMain'
 import HeroGradient from "./components/heroSection/HeroGradient"
-import SubHeroMain from './components/Subhero/SubHeromain'
+import SubHeroMain from './components/Subhero/SubHeroMain'
 import AboutMeMain from './components/about/AboutMemain'
 import ExperienceMain from './components/experience/ExperienceMain'
 import SkillsMain from './components/skills/SkillsMain'
