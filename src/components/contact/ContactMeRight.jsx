@@ -1,4 +1,4 @@
-import ContactInfo from "./ContactInfo";
+import ContactInfo from "./contactInfo";
 import ContactSocial from "./ContactSocial";
 
 const ContactMeRight = () => {
