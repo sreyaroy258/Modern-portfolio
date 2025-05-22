@@ -4,11 +4,17 @@ import { motion } from "framer-motion";
 import { fadeIn } from "../../framermotion/varients";
 
 const projects = [
-  
+   {
+    name: "Photography Website",
+    year: "May 2024",
+    align: "left",
+    image: "/images/project5.png",
+    link: "https://photography-website-ruby.vercel.app/", // ✅ full link
+  },
   {
     name: "AbsDreamFacility Service",
     year: "September 2024",
-    align: "left",
+    align: "right",
     image: "/images/project2.png",
     link: "https://www.absdreamsfacilities.com/", // ✅ full link
   },
@@ -16,21 +22,21 @@ const projects = [
   {
     name: "3d Portfolio",
     year: "November 2024",
-    align: "right",
+    align: "left",
     image: "/images/project4.png",
     link: "https://3d-portfolio-psi-puce.vercel.app/", // 
   },
    {
     name: "Avoron",
     year: "December 2024",
-    align: "left",
+    align: "right",
     image: "/images/project1.png",
     link: "https://www.avoron.in/", // ❌ FIXED — removed '#' from the beginning
   },
   {
     name: "CoffeeShop",
     year: "May2025",
-    align: "right",
+    align: "left",
     image: "/images/project3.png",
     link: "https://coffee-shop-one-iota.vercel.app/", // ✅ full link
   },

@@ -11,7 +11,7 @@ const ExperienceTopLeft = () => {
         <p className="font-bold text-6xl sm:text-5xl text-lightBrown">-</p>
         <ExperienceInfo number="10+" text="Websites" />
       </div>
-      <p className="text-center text-sm sm:text-xs px-2">
+      <p className="text-center text-sm sm:text-xs px-2 ">
         With 1 year of experience building dynamic and user-friendly web
         applications.
       </p>

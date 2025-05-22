@@ -4,7 +4,7 @@ const AboutMeText = () => {
   return (
     <div className="flex flex-col md:items-start sm:items-center md:text-left sm:text-center">
       <h2 className="text-6xl text-cyan mb-10">About Me</h2>
-      <p>
+      <p className="text-lightGrey ">
         I’m Sreya Roy, a web developer with 1 year of experience including freelancing. 
         I specialize in front-end development using React and modern web technologies. 
         Alongside coding, I am passionate about creating elegant, responsive interfaces 
