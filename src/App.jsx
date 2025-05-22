@@ -14,6 +14,7 @@ const App = () => {
     <>
       <main>
        <NavbarMain />
+       <main className='flex flex-col items-center justify-center text-center px-4'>
         <HeroMain />
       <HeroGradient />
        <SubHeroMain />
@@ -23,6 +24,7 @@ const App = () => {
         <ProjectsMain />
           <ContactMeMain />
           <Footer />
+          </main>
          </main>
     </>
   )
